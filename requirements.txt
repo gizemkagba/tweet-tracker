@@ -1,0 +1,8 @@
+flet
+tweepy
+textblob
+pandas
+openpyxl
+flet-charts
+playwright
+twifork

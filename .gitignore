@@ -1,0 +1,8 @@
+.flet/
+venv/
+__pycache__/
+*.pyc
+settings.json
+twikit_cookies.json
+playwright_cookies.json
+tweets.db
